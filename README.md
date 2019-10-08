@@ -27,3 +27,9 @@ The app then prompt users with two messages.
 ![Image selection prompt ](https://github.com/NayCS/bamazon/blob/master/images/Step%202%20-%20Item%20and%20quantity%20selection.png)
 
 At the image referenced above, the user selected to buy 5 Curtains (Product ID = 9). 
+
+Since the user bought 5 curtains, the stock quantity of the product decreased from the initial 78 (units) to 73 (units). This change in stock is being displayed in the data table "products" (see below):
+
+![Stock Decrease v1](https://github.com/NayCS/bamazon/blob/master/images/Step%203%20-%20Product%20Quantity%20Decrease%20after%20purchase.png)
+
+![Stock Decrease v2](https://github.com/NayCS/bamazon/blob/master/images/Step%203%20-%20V2%20-%20Product%20Quantity%20Decrease%20after%20Purchase.png)

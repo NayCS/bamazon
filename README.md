@@ -19,4 +19,11 @@ Image of data table:
 ![Image of data table](https://github.com/NayCS/bamazon/blob/master/images/Step%201%20-%20Intial%20Products%20Table.png)
 
 
+The app then prompt users with two messages.
 
+* The first should ask them the ID of the product they would like to buy.
+* The second message should ask how many units of the product they would like to buy.
+
+![Image selection prompt ](https://github.com/NayCS/bamazon/blob/master/images/Step%202%20-%20Item%20and%20quantity%20selection.png)
+
+At the image referenced above, the user selected to buy 5 Curtains (Product ID = 9). 
